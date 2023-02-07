@@ -1,4 +1,4 @@
-const url = "https://colormind.io/api/";
+const url = "http://colormind.io/api/";
 var options = {
   model: "default",
 };
